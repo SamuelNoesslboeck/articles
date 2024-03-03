@@ -1,0 +1,58 @@
+\documentclass{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+
+\usepackage[a4paper, total={7in, 10in}]{geometry}
+\usepackage{graphicx}
+
+\graphicspath{ {./images/} }
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\leftmark}
+\fancyhead[R]{\thepage}
+
+% New commands
+    \newcommand{\vect}[1]{\left[\begin{array}{c}#1\end{array}\right]}
+    \newcommand{\ifcases}[1]{\left\{\begin{array}{cc}\end{array}\right.}
+% 
+
+\title{SyCart Mechanics}
+\author{Samuel Nösslböck}
+\date{2022 April}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+    The SyCart has four DC-motors arranged like the corner points of a square. Each of the motors has a gearbox built in which transmits the torque and speed with a calculated gear ratio.
+
+\section{Acting forces}
+
+
+\section{Gearbox}
+    The gear ratio of the gear box is defined as following
+    
+    \begin{equation}
+        i_G = \frac{\omega_{in}}{\omega_{out}} = \frac{n_{in}}{n_{out}} = \frac{M_{out}}{M_{in}}
+    \end{equation}
+    
+    \textbf{Dimension by desired speed ($\omega_{des}$)}
+    
+    Assuming the speed of the motor is given by 
+    \begin{equation}
+        i_G = \frac{\omega_M}{\omega_{des}}
+    \end{equation}
+    
+    \textbf{Dimension by desired torque ($M_{des}$)}
+    
+
+
+\section{Electronics}
+
+
+\end{document}
