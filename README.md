@@ -1,16 +1,10 @@
-# Articles and Sketches
+# Journals
 
-Collection of all the articles and sketches of projects I have created so far.
+> Creation date: 03/09/2024  
 
-## Articles
+A collection of journals about my projects, thoughts and more. Please excuse the typos in these journals, as I am writing these in Visual Studio Code without the use
 
-- [Stepper Motors](/stepper_motors)
-  - [Stepperators](/stepper_motors/stepperators.pdf)
+## Overview
 
-## Sketches
-
-- [DrAI](https://github.com/SamuelNoesslboeck/DrAI)
-  - [1. First concept](/DrAI/1_first_concept.pdf)
-  - [2. Controller](/DrAI/2_controller.pdf)
-- Stepper Motors
-  - [NEMA 17 - Motor sketch](/stepper_motors/nema17_sketch.pdf)
+- [Bugsy](./bugsy.md)
+- [Design](./design.md)
