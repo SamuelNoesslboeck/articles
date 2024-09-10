@@ -6,5 +6,5 @@ A collection of journals about my projects, thoughts and more. Please excuse the
 
 ## Overview
 
-- [Bugsy](./bugsy.md): Everything concering the bugsy robot
-- [Design](./design.md): Logos, robot appearences and other design related matters
+- [Bugsy](./bugsy/README.MD): Everything concering the bugsy robot
+- [Design](./design/README.MD): Logos, robot appearences and other design related matters
