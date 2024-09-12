@@ -7,4 +7,5 @@ A collection of journals about my projects, thoughts and more. Please excuse the
 ## Overview
 
 - [Bugsy](./bugsy/README.md): Everything concering the bugsy robot
+- [CircleLab](./circlelab/README.md): 
 - [Design](./design/README.md): Logos, robot appearences and other design related matters
