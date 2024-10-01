@@ -2,11 +2,11 @@
 
 > Creation date: 03/09/2024 (yes i was that motivated on the first day)
 
-The bugsy uses LiPo-battery cells like most small-dimension robots and as practical as they turn out to be they sadly also have a lot of issues ...
+The bugsy uses, like most small-dimension robots, LiPo battery cells and as practical as they turn out to be, they sadly also have a lot of issues ...
 
 ## LiPo cells and their pros and cons
 
-Probably the best thing about LiPo cells is their high energy density. That means while taking very little space they deliver decent voltage with magnificent discarge rates, even described in a spectial unit **C**. If a battery has 20 *C*, it can completely discharge itself from max to zero *20 times an hour*. Why such a specific unit one might ask, just like I asked myself at first. However just by simply multiplying this unit with the capacity given in **Amp-Hours** one can get the *short circuit or max output amps of this battery*. So if our battery mentioned earlier has a capacity of 1500mAh, then it can output 30000mA or 30A.
+Probably the best thing about LiPo cells is their high energy density. That means while taking very little space they deliver decent voltage with magnificent discarge rates, even described in a spectial unit **C**. If a battery has 20 *C*, it can completely discharge itself from max to zero *20 times per hour*. Why such a specific unit one, including myself, might ask. However just by simply multiplying this unit with the capacity given in **Amp-Hours**, one can get the *short circuit or max output amps of this battery*. So if our battery mentioned earlier has a capacity of 1500mAh, then it can output 30000mA or 30A.
 
 However due to the chemical reaction in such a LiPo cell it can only procude around 3.7V, meaning that it even multicell versions are drastically limited to these kind of steps:
 
@@ -28,4 +28,4 @@ The simple solution to this problem: Chaining multiple batteries together. Using
 
 ## Upgrades and improvemnts to the robot through the new battery pack
 
-The new battery pack increases the voltage of the robot up to 22.2 Volts, which also greatly increases movement speed and ease of conversions. 
+The new battery pack increases the voltage of the robot up to 22.2 Volts, which also greatly increases movement speed and ease of voltage conversions. 
