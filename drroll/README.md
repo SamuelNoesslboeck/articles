@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/droll_titled.drawio.svg" width="80%" />
+  <img src="drroll_titled.drawio.svg" width="60%" />
 </p>
 
 ---
