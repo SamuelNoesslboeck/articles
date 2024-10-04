@@ -1,4 +1,8 @@
-# DrRoll - A mobile storage for technical drawings
+<p align="center">
+  <img src="/droll_titled.drawio.svg" width="80%" />
+</p>
+
+---
 
 > Creation date: 01/10/2024
 
