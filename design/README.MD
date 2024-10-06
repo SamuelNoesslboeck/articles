@@ -4,4 +4,4 @@
 
 ## Overview
 
-- [New Logos - (03/08/2024)](./design/new_logos.md)
+- [New Logos](design/new_logos.md)

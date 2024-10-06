@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="/design/articles-title.svg" width="75%" />
-</p>
-
----
+# Articles & Journals
 
 > Creation date: 03/09/2024
 

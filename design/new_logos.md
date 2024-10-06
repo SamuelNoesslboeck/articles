@@ -6,14 +6,16 @@ I need something to recognize my projects, even for the very small ones like an 
 
 ## First iteration for tech
 
-![First concept art](./concept/logos_concept_art_1.jpg)
+![First concept art](concept/1_logos_concept_art.jpg)
 
 A general design element should be the hexagon, as it is the "bestagon". No seriouly I think the hexagon is a immaculate shape for simple, but good looking logos in tech. So I thought about different ideas for the different types of applications. A list of these applications and the fundamental design keys I assigned for each in the first iteration:
 
 - Robots: They have two concentric circles in the middle of the hexagon, as it kind of looks like and eye, they get little "arms" and "feet" depending on the type of robot they should represent
 - Modules and Servers: Filled hexagon, other more complex shapes to give an idea about the servers / modules purpose
 
-![Final logos](./concept/final_logos.jpg)
+![Final logos](concept/2_final_logos.jpg)
+
+![More logos](concept/3_more_logos.jpg)
 
 ## Non tech logos
 
