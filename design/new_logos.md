@@ -25,7 +25,7 @@ Some other things that could require a logo is for example the ... I don't even 
 
 > Note for my future self to find a name for stuff first before even considering creating a logo for it
 
----
+--------------------------------------------------------------------------------------------
 
 ## Adding new color scheme
 
@@ -35,5 +35,13 @@ For future logos, I finally created a new color scheme that uses split-complemet
 
 ![The new main color scheme](other/sy_color_schemes.svg)
 
-As a new main font I use "Courier New", not the best choice in my optionion, but the default fonts of draw.io only include a handful of fonts. The nice thing about such a default system font is that there is no need to embed it in any of the logo files!
+As a new main font I use "Courier New", not the best choice in my optionion, but the default fonts of draw.io only include a handful of fonts. The nice thing about such a default system font is that there is no need to embed it in any of the logo files. 
+
+Here are a few examples of the new logos using the concept art:
+
+<p align="middle">
+    <img src="concept/4_comparisions/1_circlelab_1.jpg" width="30%"/>
+    <img src="concept/4_comparisions/1_circlelab_2.jpg" width="35%"/>
+    <img src="concept/4_comparisions/1_circlelab_3.svg" width="30%"/>
+</p>
 
