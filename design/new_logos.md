@@ -1,6 +1,6 @@
 # New logos
 
-> Creation date: 03/09/2024
+> Date: 03/09/2024
 
 I need something to recognize my projects, even for the very small ones like an automation module in my room. What comes to mind of course are simple logos, but the question is of course: How to design them, and how to implement them?
 
@@ -24,3 +24,16 @@ For other non-tech projects and stuff like equipment and more, I have to actuall
 Some other things that could require a logo is for example the ... I don't even have a name for it. The small cardboard roll, where I store all my drawings. It could require a logo too, or the suitcase.
 
 > Note for my future self to find a name for stuff first before even considering creating a logo for it
+
+---
+
+## Adding new color scheme
+
+> Date: 07/10/2024
+
+For future logos, I finally created a new color scheme that uses split-complemetary color version of some of my favorite colors!
+
+![The new main color scheme](other/sy_color_schemes.svg)
+
+As a new main font I use "Courier New", not the best choice in my optionion, but the default fonts of draw.io only include a handful of fonts. The nice thing about such a default system font is that there is no need to embed it in any of the logo files!
+

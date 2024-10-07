@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="design/logo/bugsy-title.svg" width="75%"/>
+  <img src="design/logo/bugsy_logo_titled.svg" width="75%"/>
 </p>
 
 ---
