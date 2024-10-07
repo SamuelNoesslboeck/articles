@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="design/drroll_titled.drawio.svg" />
+  <img src="design/logo/drroll_logo_titled.svg" width="75%"/>
 </p>
 
 ---
